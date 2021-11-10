@@ -12,5 +12,6 @@ public class TestLogin {
     result = fahrul.login("fahrul", "123456", "19990129");
     if(result) System.out.println("Login berhasil");
     else System.out.println("Login gagal");
+    print("ok");
   }
 }
